@@ -11,5 +11,7 @@
     <content url="file://$MODULE_DIR$/out" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="javax.xml.bind:jaxb-api:2.2.9" level="project" />
+    <orderEntry type="library" exported="" name="io.github.jnasmartcardio:jnasmartcardio:0.2.7" level="project" />
   </component>
 </module>
